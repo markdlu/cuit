@@ -1,0 +1,45 @@
+SQL> /
+
+advmcdevdb01.cc.columbia.edu                                                    
+advmctestdb01.cc.columbia.edu                                                   
+arcdev2dbu01.cc.columbia.edu                                                    
+arcdevdbu01.cc.columbia.edu                                                     
+arcprfdbu01.cc.columbia.edu                                                     
+arcprfrdbu01.cc.columbia.edu                                                    
+bodevdb01.cc.columbia.edu                                                       
+bodsdevdb01.cc.columbia.edu                                                     
+bodsdevdb02.cc.columbia.edu                                                     
+bodsdevdb03.cc.columbia.edu                                                     
+bodsdevdb04.cc.columbia.edu                                                     
+bodstestcrdb01.cc.columbia.edu                                                  
+bodstestcrdb03.cc.columbia.edu                                                  
+
+bodstestdb01.cc.columbia.edu                                                    
+bodstestdb02.cc.columbia.edu                                                    
+bopredb01.cc.columbia.edu                                                       
+fdmdevdb02.cc.columbia.edu                                                      
+fdmpredb01.cc.columbia.edu                                                      
+fdmqnadb01.cc.columbia.edu                                                      
+fdmtstdb01.cc.columbia.edu                                                      
+fdsdevdb01.cc.columbia.edu                                                      
+fdsqadb01.cc.columbia.edu                                                       
+fdssanddb01.cc.columbia.edu                                                     
+fdstestdb01.cc.columbia.edu                                                     
+fdstestdb02.cc.columbia.edu                                                     
+oem12cproddb02.cc.columbia.edu                                                  
+
+pacprfdbu01.cc.columbia.edu                                                     
+phrdevdbu01.cc.columbia.edu                                                     
+phrprddbu01.cc.columbia.edu                                                     
+phrtstdbu01.cc.columbia.edu                                                     
+pihsnddbu01.cc.columbia.edu                                                     
+rmanproddb01.cc.columbia.edu                                                    
+rmantestdb01.cc.columbia.edu                                                    
+sdmdevdb02.cc.columbia.edu                                                      
+sdmtestdb02.cc.columbia.edu                                                     
+udsdevdb01.cc.columbia.edu                                                      
+udstestdb01.cc.columbia.edu                                                     
+
+37 rows selected.
+
+SQL> spool off

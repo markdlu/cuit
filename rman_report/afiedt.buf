@@ -1,0 +1,6 @@
+select regexp_substr(UPPER(a.target_name)), host_name from sysman.MGMT$TARGET@emrep1plink a, sysman.mgmt$target_properties@emrep1plink b
+where a.TARGET_NAME = b.TARGET_NAME
+and b.PROPERTY_NAME ='DBVersion'
+and b.PROPERTY_VALUE like '12.2%'
+order by 1
+/

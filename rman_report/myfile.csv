@@ -1,0 +1,143 @@
+host_name                                         ,name                ,LAST_FULL_BACKUP_DATE
+LAST_INCREMENTAL_BACKUP_DATE
+
+
+aadprddb01.cc.columbia.edu                        ,AADPRD              ,2018-09-26 02:00:20                     ,2018-09-24 02:30:11
+aclaxdevdb01.cc.columbia.edu                      ,ACLAX1D             ,2018-09-23 00:05:29                     ,2018-09-26 00:01:45
+aclaxproddb01.cc.columbia.edu                     ,ACLAX1P             ,2018-09-25 15:40:33                     ,2018-09-26 00:00:53
+advdevdb01.cc.columbia.edu                        ,ADVLP               ,2018-09-24 14:00:22                     ,2018-09-26 00:18:56
+adveoqdb01.cc.columbia.edu                        ,ADVEOQ              ,2018-09-23 01:41:29                     ,2018-09-26 01:24:41
+advmcdevdb01.cc.columbia.edu                      ,ADVMC1D             ,2018-09-24 22:22:59                     ,2018-09-21 22:33:29
+advmcinfdevdb01.cc.columbia.edu                   ,INFA1D              ,2018-09-24 23:21:50                     ,2018-09-21 23:30:42
+advmcinfproddb01.cc.columbia.edu                  ,INFA1P              ,2018-09-24 17:20:17                     ,2018-09-21 17:30:23
+advmcinftstdb01.cc.columbia.edu                   ,INFA1T              ,2018-09-24 20:20:18                     ,2018-09-21 20:30:30
+advmcprddb01.cc.columbia.edu                      ,ADVMC1P             ,2018-09-23 22:26:33                     ,2018-09-25 22:22:30
+advmctestdb01.cc.columbia.edu                     ,ADVMC1T             ,2018-09-25 23:05:12                     ,2018-09-22 23:01:51
+advproddb01.cc.columbia.edu                       ,ADVPR               ,2018-09-23 05:48:27                     ,2018-09-26 05:15:19
+advproddb02.cc.columbia.edu                       ,ADVAUX              ,2018-09-23 01:51:27                     ,2018-09-26 01:46:37
+advproddb03.cc.columbia.edu                       ,ADVWEB              ,2018-09-23 02:45:46                     ,2018-09-26 02:45:26
+advstgdb01.cc.columbia.edu                        ,ADVSTG              ,2018-09-24 15:57:37                     ,2018-09-26 01:20:48
+advtrndb01.cc.columbia.edu                        ,ADVTR               ,2018-09-24 14:58:02                     ,2018-09-26 02:14:03
+amaranth.cc.columbia.edu                          ,PNCL1T              ,2018-09-23 19:56:15                     ,2018-09-25 19:44:41
+arccfgdb01.cc.columbia.edu                        ,FN92CFG             ,2018-09-25 05:05:53                     ,2018-09-26 05:04:49
+arccnvdb01.cc.columbia.edu                        ,FN92CNV             ,2018-09-26 04:44:59                     ,2018-09-24 03:35:53
+arcdev2db01.cc.columbia.edu                       ,FN92DEV2            ,2018-09-25 05:38:37                     ,2018-09-26 03:59:28
+arcdevdb01.cc.columbia.edu                        ,FN92DEV             ,2018-09-25 18:34:37                     ,2018-09-24 22:10:56
+arcdmodb01.cc.columbia.edu                        ,FN92DMO             ,2018-09-25 03:34:00                     ,2018-09-26 03:31:54
+arcdrpprddb01.cc.columbia.edu                     ,FNDRP1P             ,2018-09-17 00:56:21                     ,
+arcdrptstdb01.cc.columbia.edu                     ,FNDRP1T             ,2018-09-14 17:52:46                     ,2018-09-17 01:13:12
+arcprddb01.cc.columbia.edu                        ,FN92PRD             ,2018-09-26 04:44:17                     ,2018-09-25 18:12:34
+arcprfdb01.cc.columbia.edu                        ,FN92PRF             ,2018-09-21 01:57:32                     ,2018-09-24 22:34:23
+arcprfrdb01.cc.columbia.edu                       ,FN92PRFR            ,2018-09-25 08:11:19                     ,2018-09-26 06:35:36
+arcptfdb01.cc.columbia.edu                        ,FN92PTF             ,2018-09-25 04:03:07                     ,2018-09-26 04:01:38
+arcqna2db01.cc.columbia.edu                       ,FN92QNA2            ,2018-09-25 21:26:05                     ,2018-09-24 19:07:17
+arcqnadb01.cc.columbia.edu                        ,FN92QNA             ,2018-09-25 21:34:48                     ,2018-09-24 19:07:01
+arcsnddb01.cc.columbia.edu                        ,FN92SND             ,2018-09-25 03:05:11                     ,2018-09-26 03:02:49
+arcstg2db01.cc.columbia.edu                       ,FN92STG2            ,2018-09-21 00:06:38                     ,2018-09-24 22:33:06
+arcstgdb01.cc.columbia.edu                        ,FN92STG             ,2018-09-26 00:33:24                     ,2018-09-24 22:48:06
+arctrndb01.cc.columbia.edu                        ,FN92TRN             ,2018-09-26 02:48:56                     ,2018-09-24 22:35:16
+bo1devdb01.cc.columbia.edu                        ,BO1D                ,2018-09-25 22:39:34                     ,2018-09-24 22:32:46
+bo1predb01.cc.columbia.edu                        ,BO1U                ,2018-09-26 03:43:25                     ,2018-09-25 03:16:41
+bo1qnadb01.cc.columbia.edu                        ,BO1QNA              ,2018-09-23 22:41:25                     ,2018-09-25 22:40:26
+bo1testdb01.cc.columbia.edu                       ,BO1T                ,2018-09-25 03:08:01                     ,2018-09-26 03:03:18
+bodevdb01.cc.columbia.edu                         ,BOD1                ,2018-09-25 22:31:47                     ,2018-09-24 22:31:42
+bodsdevdb01.cc.columbia.edu                       ,ERREPOD             ,2018-09-25 06:30:39                     ,2018-09-26 06:30:23
+bodsdevdb02.cc.columbia.edu                       ,ERIREPOD            ,2018-09-25 06:55:54                     ,2018-09-26 06:55:11
+bodsproddb01.cc.columbia.edu                      ,ERREPOP             ,2018-09-25 04:00:39                     ,2018-09-26 04:00:19
+bodsproddb02.cc.columbia.edu                      ,ERIREPOP            ,2018-09-25 04:03:47                     ,2018-09-26 04:03:17
+bodstestcrdb01.cc.columbia.edu                    ,ERREPO1C            ,2018-09-25 05:00:32                     ,2018-09-26 05:00:16
+bodstestcrdb03.cc.columbia.edu                    ,ERIREPOC            ,2018-09-25 05:15:29                     ,2018-09-26 05:15:15
+bodstestdb01.cc.columbia.edu                      ,ERREPO1T            ,2018-09-25 05:30:31                     ,2018-09-26 05:30:28
+bodstestdb02.cc.columbia.edu                      ,ERIREPOT            ,2018-09-25 06:00:29                     ,2018-09-26 06:00:15
+boprddb01.cc.columbia.edu                         ,BOPRD1              ,2018-09-25 23:51:43                     ,2018-09-24 23:51:17
+boprddb02.cc.columbia.edu                         ,BOPRD2              ,2018-09-25 23:13:09                     ,2018-09-24 23:12:18
+boprddb03.cc.columbia.edu                         ,BOPRD3              ,2018-09-24 23:12:59                     ,2018-09-25 23:12:23
+boprddb04.cc.columbia.edu                         ,BOPRD4              ,2018-09-24 23:33:40                     ,2018-09-25 23:32:18
+boproddb01.cc.columbia.edu                        ,ERBO1P              ,2018-09-23 18:18:19                     ,2018-09-25 18:00:47
+burdock.cc.columbia.edu                           ,PNCLP               ,2018-09-23 23:23:01                     ,2018-09-25 21:06:09
+canvasdevdb01.cc.columbia.edu                     ,CANVAS1D            ,2018-09-23 01:46:46                     ,2018-09-26 01:45:37
+canvasproddb01.cc.columbia.edu                    ,CANVAS1P            ,2018-09-23 00:47:04                     ,2018-06-24 01:52:36
+canvasrptdb01.cc.columbia.edu                     ,CANVAS1R            ,2018-09-23 00:02:46                     ,2018-09-26 00:01:09
+canvastestdb01.cc.columbia.edu                    ,CANVAS1T            ,2018-09-23 01:02:48                     ,2018-09-26 01:01:11
+cwmsdevdb-ci.cc.columbia.edu                      ,CF101D              ,2018-09-23 16:31:12                     ,2018-09-25 16:30:17
+cwmsdevdb-ci.cc.columbia.edu                      ,CWAR1D              ,2018-09-23 15:10:06                     ,2018-09-25 15:00:28
+cwmsdevdb-ci.cc.columbia.edu                      ,CWMS1D              ,2018-09-23 15:53:17                     ,2018-09-25 15:30:32
+cwmsdevdb-ci.cc.columbia.edu                      ,FCBK1D              ,2018-09-23 16:01:36                     ,2018-09-25 16:00:23
+cwmsdevdb-ci.cc.columbia.edu                      ,SESS1D              ,2018-09-23 16:31:18                     ,2018-09-25 16:30:19
+cwmsproddb-ci.cc.columbia.edu                     ,CF101P              ,2018-09-23 23:01:47                     ,2018-09-25 23:00:32
+cwmsproddb-ci.cc.columbia.edu                     ,CWAR1P              ,2018-09-23 01:21:14                     ,2018-09-26 01:00:26
+cwmsproddb-ci.cc.columbia.edu                     ,FCBK1P              ,2018-09-23 01:19:25                     ,2018-09-26 01:15:25
+cwmsproddb-ci.cc.columbia.edu                     ,SESS1P              ,2018-09-23 01:59:25                     ,2018-09-26 01:30:30
+ecrtdevdb01.cc.columbia.edu                       ,ECRTD               ,2018-09-24 15:08:46                     ,2018-09-26 01:30:37
+ecrtlegdb01.cc.columbia.edu                       ,ECRTL               ,2018-09-23 00:36:11                     ,2018-09-26 00:31:18
+ecrtproddb01.cc.columbia.edu                      ,ECRT                ,2018-09-25 00:06:23                     ,2018-09-23 10:38:39
+ecrtqadb01.cc.columbia.edu                        ,ECRTQ               ,2018-09-23 01:23:28                     ,2018-09-26 01:10:39
+ecrtrptdb01.cc.columbia.edu                       ,ECRPT               ,2018-09-23 01:32:57                     ,2018-09-26 01:10:48
+ecrttraindb01.cc.columbia.edu                     ,ECRTR               ,2018-09-23 01:18:43                     ,2018-09-26 01:16:05
+fdmdevdb02.cc.columbia.edu                        ,FDMDEV              ,2018-09-23 07:11:24                     ,
+fdmprddb02.cc.columbia.edu                        ,FDMPRD              ,2018-09-23 10:25:42                     ,2018-09-25 18:05:09
+fdmpredb01.cc.columbia.edu                        ,FDMPRE              ,2018-09-24 10:03:34                     ,2018-09-21 18:03:49
+fdmqnadb01.cc.columbia.edu                        ,FDMQNA              ,2018-09-23 07:09:58                     ,
+fdmtstdb01.cc.columbia.edu                        ,FDMTST              ,2018-09-24 08:05:46                     ,2018-09-26 08:06:00
+fdsproddb01.cc.columbia.edu                       ,FDSPRD              ,2018-09-23 18:57:39                     ,2018-09-25 03:27:23
+grouperdevdb01.cc.columbia.edu                    ,GRP1D               ,2018-09-23 21:31:02                     ,2018-09-25 21:16:08
+grouperproddb01.cc.columbia.edu                   ,GRP1P               ,2018-09-23 17:35:52                     ,2018-09-25 16:24:49
+grouperqatdb01.cc.columbia.edu                    ,GRP1Q               ,2018-09-23 23:40:53                     ,2018-09-25 16:23:38
+hrdevdb.cc.columbia.edu                           ,HR92STG             ,2018-08-11 19:21:13                     ,2018-08-09 19:16:08
+idmsysdevdb01.cc.columbia.edu                     ,IDMDEV1             ,2018-09-24 21:03:22                     ,
+idmsysproddb01.cc.columbia.edu                    ,IDMPROD1            ,2018-09-25 22:01:21                     ,
+infoeddevdb01.cc.columbia.edu                     ,INFOED1D            ,2018-09-07 03:36:38                     ,2018-09-11 23:59:58
+infoeddevdb01.cc.columbia.edu                     ,INFOED1D            ,2018-09-07 03:36:38                     ,2018-09-26 00:03:26
+infoeddevdb01.cc.columbia.edu                     ,INFOED1D            ,2018-09-21 02:21:00                     ,2018-09-11 23:59:58
+infoeddevdb01.cc.columbia.edu                     ,INFOED1D            ,2018-09-21 02:21:00                     ,2018-09-26 00:03:26
+infoedproddb01.cc.columbia.edu                    ,INFOED1P            ,2018-09-21 06:35:43                     ,2018-09-26 05:33:53
+infoedtraindb01.cc.columbia.edu                   ,INFOED1T            ,2018-09-19 20:53:50                     ,2018-09-25 20:28:21
+mscampusproddb01.cc.columbia.edu                  ,MISC1P              ,2018-09-23 20:21:17                     ,2018-09-25 20:20:37
+netmonproddb01.cc.columbia.edu                    ,SECNET1P            ,2018-09-26 00:19:29                     ,
+oem12cproddb01.cc.columbia.edu                    ,EMREP1P             ,2018-09-25 21:53:42                     ,
+paccfgdb01.cc.columbia.edu                        ,HR92CFG             ,2018-09-20 01:59:07                     ,2018-09-25 22:33:02
+pacdev2db01.cc.columbia.edu                       ,HR92DEV2            ,2018-09-21 01:47:38                     ,2018-09-26 02:36:52
+pacdevdb01.cc.columbia.edu                        ,HR92DEV             ,2018-09-20 23:18:01                     ,2018-09-25 22:33:58
+pacdmodb01.cc.columbia.edu                        ,HR92DMO             ,2018-09-22 19:01:39                     ,2018-09-25 19:00:39
+pacprddb01.cc.columbia.edu                        ,HR92PRD             ,2018-09-25 21:54:27                     ,2018-09-26 05:19:00
+pacprfdb01.cc.columbia.edu                        ,HR92PRF             ,2018-09-25 08:33:01                     ,2018-09-25 08:15:40
+pacprfrdb01.cc.columbia.edu                       ,HR92PRFR            ,2018-09-23 07:14:06                     ,2018-09-25 17:02:30
+pacptfdb01.cc.columbia.edu                        ,HR92PTF             ,2018-09-20 03:05:41                     ,2018-09-25 03:02:58
+pacqna2db01.cc.columbia.edu                       ,HR92QNA2            ,2018-09-20 19:18:11                     ,2018-09-24 19:02:10
+pacqnadb01.cc.columbia.edu                        ,HR92QNA             ,2018-09-25 20:32:46                     ,2018-09-25 20:40:17
+pacsecdb01.cc.columbia.edu                        ,HR92SEC             ,2018-09-21 20:02:06                     ,2018-09-24 19:31:22
+pacsnddb01.cc.columbia.edu                        ,HR92SND             ,2018-09-22 19:41:45                     ,2018-09-25 19:34:27
+pactrddb01.cc.columbia.edu                        ,HR92TRD             ,2018-09-21 19:54:42                     ,2018-09-24 19:30:44
+pactrndb01.cc.columbia.edu                        ,HR92TRN             ,2018-09-21 18:52:18                     ,2018-09-24 18:30:42
+pactst1db01.cc.columbia.edu                       ,HR92TST1            ,2018-09-19 19:29:33                     ,2018-09-25 19:01:08
+pactst2db01.cc.columbia.edu                       ,HR92TST2            ,2018-09-19 23:26:54                     ,2018-09-25 23:00:36
+patchproddb01.cc.columbia.edu                     ,PATCH1P             ,2018-09-24 03:02:07                     ,2018-09-25 03:01:56
+patchtestdb01.cc.columbia.edu                     ,PATCH1T             ,2018-09-24 03:02:18                     ,2018-09-25 03:02:03
+phrdevdb01.cc.columbia.edu                        ,PHRDEV              ,2018-09-22 16:00:54                     ,2018-09-25 16:00:34
+phrprddb01.cc.columbia.edu                        ,PHRPRD              ,2018-09-22 16:03:46                     ,2018-09-25 16:08:56
+preciseproddb01.cc.columbia.edu                   ,PMDB                ,2018-09-24 04:14:29                     ,2018-09-26 04:01:46
+psdevupk01.cc.columbia.edu                        ,UPK12DB             ,2018-09-26 13:00:37                     ,2018-09-25 13:00:17
+rascaldevdb01.cc.columbia.edu                     ,RASCAL1D            ,2018-09-22 02:01:40                     ,2018-09-26 02:00:55
+rascalproddb01.cc.columbia.edu                    ,RASCAL1P            ,2018-09-22 05:06:55                     ,2018-09-26 04:07:08
+rascaltestdb01.cc.columbia.edu                    ,RASCAL1T            ,2018-09-22 02:26:19                     ,2018-09-26 02:25:44
+rmanproddb01.cc.columbia.edu                      ,RMAN1P              ,2018-09-24 03:03:48                     ,2018-09-25 03:03:48
+rmantestdb01.cc.columbia.edu                      ,RMAN1T              ,2018-09-24 03:02:50                     ,2018-09-25 03:02:17
+sakaidbdev-ci.cc.columbia.edu                     ,CLSRM1D             ,2018-09-23 22:24:20                     ,2018-09-25 22:14:13
+sakaidbdev-ci.cc.columbia.edu                     ,SAKAI1D             ,2018-09-16 01:48:33                     ,2018-09-21 00:27:37
+sakaidbdev-ci.cc.columbia.edu                     ,SAKAI1Q             ,2018-09-23 22:48:38                     ,2018-09-25 21:22:24
+sakaidbprod-ci.cc.columbia.edu                    ,CLSRM1P             ,2018-09-26 01:31:00                     ,
+sakaidbprod-ci.cc.columbia.edu                    ,SAKAIP              ,2018-09-24 17:17:36                     ,2018-09-26 00:05:52
+sakaidbtest-ci.cc.columbia.edu                    ,CLSRM1T             ,2018-09-23 23:31:28                     ,2018-09-25 23:21:32
+sakaidbtest-ci.cc.columbia.edu                    ,SAKAI12             ,2018-09-24 01:32:23                     ,2018-09-25 23:19:20
+sdmdevdb02.cc.columbia.edu                        ,SDM1D               ,2018-09-25 21:03:45                     ,
+sdmproddb02.cc.columbia.edu                       ,SDM1P               ,2018-09-25 21:18:28                     ,
+sdmtestdb02.cc.columbia.edu                       ,SDM1T               ,2018-09-25 21:10:14                     ,
+trackproddb01.cc.columbia.edu                     ,DBTRAC1P            ,2018-09-25 05:02:00                     ,2018-09-26 05:00:31
+tracktestdb01.cc.columbia.edu                     ,DBTRAC1T            ,2018-09-24 03:02:12                     ,2018-09-25 03:01:59
+twproddb01.cc.columbia.edu                        ,TWPPRD              ,2018-09-24 04:29:39                     ,2018-09-26 04:02:43
+udsdevdb01.cc.columbia.edu                        ,ERSTGD              ,2018-09-24 04:06:37                     ,2018-09-26 04:06:27
+udsproddb01.cc.columbia.edu                       ,ERSTGP              ,2018-09-25 03:26:16                     ,2018-09-26 03:02:07
+udstestdb01.cc.columbia.edu                       ,ERSTGT              ,2018-09-25 05:16:11                     ,2018-09-26 05:04:21
+
+136 rows selected.
+
