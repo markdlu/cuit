@@ -1,0 +1,26 @@
+dbtrac1t.__data_transfer_cache_size=0
+dbtrac1t.__db_cache_size=654311424
+dbtrac1t.__java_pool_size=16777216
+dbtrac1t.__large_pool_size=33554432
+dbtrac1t.__oracle_base='/orabase'#ORACLE_BASE set from environment
+dbtrac1t.__pga_aggregate_target=671088640
+dbtrac1t.__sga_target=989855744
+dbtrac1t.__shared_io_pool_size=50331648
+dbtrac1t.__shared_pool_size=218103808
+dbtrac1t.__streams_pool_size=0
+*.audit_file_dest='/orabase/admin/dbtrac1t/adump'
+*.audit_trail='db'
+*.compatible='12.1.0.2.0'
+*.control_files='/oradata/db001/ctl1/control1.ctl','/oradata/db001/ctl2/control2.ctl'
+*.db_block_size=8192
+*.db_domain='cc.columbia.edu'
+*.db_name='dbtrac1t'
+#*.db_recovery_file_dest='/orabase/fast_recovery_area'
+*.db_recovery_file_dest_size=4560m
+*.diagnostic_dest='/orabase'
+*.dispatchers='(PROTOCOL=TCP) (SERVICE=dbtrac1tXDB)'
+*.memory_target=1581m
+*.open_cursors=300
+*.processes=300
+*.remote_login_passwordfile='EXCLUSIVE'
+*.undo_tablespace='UNDOTBS1'

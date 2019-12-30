@@ -1,0 +1,6 @@
+run {
+restore controlfile;
+restore database;
+recover database;
+alter database open resetlogs;
+}
